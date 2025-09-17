@@ -10,6 +10,10 @@ I'm a **Software Engineer** passionate about building web apps, APIs, and scalab
 - **Frontend:** Next.js, React, Tailwind CSS, MUI  
 - **Backend:** Node.js, Express, Spring Boot  
 - **Databases:** PostgreSQL, MongoDB, MySQL  
-- **Other:** AWS, Docker, Prisma, Mongoose  
+- **Other:** AWS, Docker, Prisma, Mongoose
+  
+### 🤝 Open Source Contributions
+- Contributed to [exosphere](https://github.com/exospherehost/exospherehost) – added an auto-refresh feature in the dashboard
+- Many more to come!
 
 📫 Reach me at: [LinkedIn]((https://www.linkedin.com/in/kalraav/)) • [Twitter]((https://x.com/kalraa_v))  
