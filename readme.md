@@ -16,4 +16,4 @@ I'm a **Software Engineer** passionate about building web apps, APIs, and scalab
 - Contributed to [exosphere](https://github.com/exospherehost/exospherehost) – added an auto-refresh feature in the dashboard
 - Many more to come!
 
-📫 Reach me at: https://www.linkedin.com/in/kalraav/ • [[Twitter]((https://x.com/kalraa_v))  ](https://x.com/kalraa_v)
+📫 Reach me at: [[Twitter]((https://x.com/kalraa_v))]
