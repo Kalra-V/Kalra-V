@@ -13,7 +13,5 @@ I'm a **Software Engineer** passionate about building web apps, APIs, and scalab
 - **Other:** AWS, Docker, Prisma, Mongoose
   
 ### 🤝 Open Source Contributions
-- Contributed to [exosphere](https://github.com/exospherehost/exospherehost) – added an auto-refresh feature in the dashboard
+- Contributed to [exosphere](https://github.com/exospherehost/exospherehost) – added an auto-refresh feature in the dashboard improving developer experience to observe workflows better
 - Many more to come!
-
-📫 Reach me at: [[Twitter]((https://x.com/kalraa_v))]
