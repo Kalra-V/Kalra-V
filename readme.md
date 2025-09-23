@@ -15,5 +15,7 @@ I'm a **Software Engineer** passionate about solving real-world problems, buildi
 - **Operating Systems:** Linux (Ubuntu, CLI, Basic Shell Scripting)
   
 ### 🤝 Open Source Contributions
-- Contributed to [exosphere](https://github.com/exospherehost/exospherehost) – added an auto-refresh feature in the dashboard improving developer experience to observe workflows better
+#### - [exosphere](https://github.com/exospherehost/exospherehost)
+1. added an auto-refresh feature in the dashboard improving developer experience to observe workflows better
+2. added a startup check that catches database model mismatches early ensuring clear errors, faster feedback and safer deploys
 - Many more to come!
