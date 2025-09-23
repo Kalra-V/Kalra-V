@@ -1,6 +1,6 @@
 # Hey, I'm Vansh Kalra  
 
-I'm a **Software Engineer** passionate about building web apps, APIs, and scalable systems.  
+I'm a **Software Engineer** passionate about solving real-world problems, building scalable systems and taking companies from 0 -> 1, then scaling from 1 -> 100.
 
 - 🚀 Currently a Software Engineer in the Founding Team of a startup
 - 💡 Learning, Growing, Repeating
