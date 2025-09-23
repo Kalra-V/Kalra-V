@@ -7,8 +7,8 @@ I'm a **Software Engineer** passionate about solving real-world problems, buildi
 - 📈 See myself building something of my own one day
 
 ### 🛠️ Tech Skills
-- **Programming Languages:** Java, JavaScript, TypeScript, Python
-- **Web Dev:** React.js, Node.js, Express, Spring Boot, Next.Js
+- **Programming Languages:** JavaScript, TypeScript, Java, Python
+- **Web Dev:** React.js, Node.js, Express.js, Next.js, Spring Boot
 - **Databases:** PostgreSQL, MongoDB, MySQL
 - **AI / GenAI:** OpenAI API / GenAI integration (chat, automation, data processing)
 - **Other:** AWS (Lambda, S3, SQS, IAM), Docker, Prisma, Sequelize, Mongoose
