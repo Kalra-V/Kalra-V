@@ -1,8 +1,6 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Kalra-V/Kalra-v/main/name.svg" alt="Vansh Kalra" />
+  <img src="https://github.com/Kalra-V/Kalra-V/blob/main/name.svg" alt="Vansh Kalra" />
 </h1>
-
-# Hey, I'm Vansh Kalra  
 
 I'm a **Software Engineer** passionate about solving real-world problems, building scalable systems and taking startups from 0 -> 1, then scaling from 1 -> 100.
 
