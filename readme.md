@@ -2,6 +2,8 @@
 
 I'm a **Software Engineer** passionate about solving real-world problems, building scalable systems and taking companies from 0 -> 1, then scaling from 1 -> 100.
 
+In short, I am the kind of talent you want in your engineering team.
+
 - 🚀 Currently a Software Engineer in the Founding Team of a startup
 - 💡 Learning, Growing, Repeating
 - 📈 See myself building something of my own one day
