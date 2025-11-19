@@ -4,17 +4,17 @@
 
 I'm a **Software Engineer** passionate about solving real-world problems, building scalable systems and taking startups from 0 -> 1, then scaling from 1 -> 100.
 
-- 🚀 Currently a Software Engineer in the Founding Team of a startup
+- 🚀 An Experienced Software Engineer in the Founding Team of a startup
 - 💡 Learning, Growing, Repeating
 - 📈 See myself building something of my own one day
 
 ### 🛠️ Tech Skills
-- **Programming Languages:** JavaScript, TypeScript, Java, Python
-- **Web Dev:** React.js, Node.js, Express.js, Next.js, Spring Boot
+- **Programming Languages:** JavaScript, TypeScript, Python, Rust
+- **Web Dev:** React.js, Node.js, Express.js, Next.js
 - **Databases:** PostgreSQL, MongoDB, MySQL
 - **AI / GenAI:** OpenAI API / GenAI integration (chat, automation, data processing)
 - **Other:** AWS (Lambda, S3, SQS, IAM), Docker, Prisma, Sequelize, Mongoose
-- **Web3:** Solana, web3.js
+- **Web3:** Solana web3.js, Anchor
 - **Operating Systems:** Linux (Ubuntu, CLI, Basic Shell Scripting)
   
 ### 🤝 Open Source Contributions
