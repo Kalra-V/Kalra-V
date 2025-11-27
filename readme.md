@@ -12,9 +12,9 @@ I'm a **Software Engineer** passionate about solving real-world problems, buildi
 - **Programming Languages:** JavaScript, TypeScript, Python, Rust
 - **Web Dev:** React.js, Node.js, Express.js, Next.js
 - **Databases:** PostgreSQL, MongoDB, MySQL
-- **AI / GenAI:** OpenAI API / GenAI integration (chat, automation, data processing)
+- **AI / GenAI:** OpenAI API / GenAI integration (chat, automation, data processing), Prompt Engineering
 - **Other:** AWS (Lambda, S3, SQS, IAM), Docker, Prisma, Sequelize, Mongoose
-- **Web3:** Solana web3.js, Anchor
+- **Web3:** Solana web3.js, Anchor, PDAs, CPIs
 - **Operating Systems:** Linux (Ubuntu, CLI, Basic Shell Scripting)
   
 ### 🤝 Open Source Contributions
